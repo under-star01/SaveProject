@@ -1,4 +1,4 @@
-# SaveProject
+# SaveProject (Unity Has Stopped Working)
 
 **SaveProject**는 유니티 세상 속에서 떨어지는 오류를 피하고,  
 프로젝트가 강제 종료되지 않도록 버텨내는 **3인칭 액션 프로젝트**입니다.
