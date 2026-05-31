@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height="240" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/0d076a9f-415d-4fec-816f-dc4ee69db6ad" />
-  <img height="240" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/30248ed3-0247-45f0-953b-e9d64ff1271f" />
+  <img height="240" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/c3e67215-5834-4973-933e-8f3ffe0e02a3" />
 </p>
 
 **SaveProject**는 유니티 세상 속에서 떨어지는 오류를 피하고,  
