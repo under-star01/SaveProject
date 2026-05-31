@@ -1,5 +1,10 @@
 # SaveProject (Unity Has Stopped Working)
 
+<p align="center">
+  <img height="240" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/0d076a9f-415d-4fec-816f-dc4ee69db6ad" />
+  <img height="240" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/30248ed3-0247-45f0-953b-e9d64ff1271f" />
+</p>
+
 **SaveProject**는 유니티 세상 속에서 떨어지는 오류를 피하고,  
 프로젝트가 강제 종료되지 않도록 버텨내는 **3인칭 액션 프로젝트**입니다.
 
